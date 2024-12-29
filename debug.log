@@ -1,0 +1,1536 @@
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates with glob **/*.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates with glob **/*.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates with glob **/*.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\locale with glob **/*.mo.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\locale with glob **/*.mo.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\locale with glob **/*.mo.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\locale with glob **/*.mo.
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+File C:\python\DLLs\_uuid.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1717848228.5204916
+File C:\python\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1717848229.707896
+File C:\python\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1717848226.9333258
+File C:\python\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1717848228.3563292
+File C:\python\Lib\site-packages\django\http\__init__.py first seen with mtime 1717848229.8634741
+File C:\python\Lib\site-packages\django\template\loader.py first seen with mtime 1717848229.8785386
+File C:\python\Lib\_markupbase.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\html.py first seen with mtime 1717848229.9106464
+File C:\python\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1717848227.791133
+File C:\python\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1717848228.5220613
+File C:\python\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1717848229.1443746
+File C:\python\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1717848229.6951659
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py first seen with mtime 1734780911.2874985
+File C:\python\Lib\email\headerregistry.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1717848228.3568287
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1717848229.7377658
+File C:\python\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1717848229.6441188
+File C:\python\Lib\asyncio\coroutines.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1717848229.8869452
+File C:\python\Lib\site-packages\django\views\debug.py first seen with mtime 1717848229.9257934
+File C:\python\Lib\site-packages\django\core\exceptions.py first seen with mtime 1717848229.6521213
+File C:\python\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1717848227.5530496
+File C:\python\Lib\site-packages\django\template\__init__.py first seen with mtime 1717848229.871167
+File C:\python\Lib\site-packages\sqlparse\utils.py first seen with mtime 1717848226.9328256
+File C:\python\Lib\_compression.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1717848228.519642
+File C:\python\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1717848229.143794
+File C:\python\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1717848229.7699134
+File C:\python\Lib\site-packages\colorama\ansitowin32.py first seen with mtime 1730012279.2495048
+File C:\python\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1717848229.6638753
+File C:\python\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1717848229.6487415
+File C:\python\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1717848229.7721589
+File C:\python\DLLs\_ctypes.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1717848229.7383015
+File C:\python\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1717848229.8894746
+File C:\python\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1717848229.9323049
+File C:\python\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1717848226.9252708
+File C:\python\Lib\lzma.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\signals.py first seen with mtime 1717848229.6530187
+File C:\python\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1717848229.7719953
+File C:\python\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1717848229.7138965
+File C:\python\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1717848229.7663512
+File C:\python\Lib\site-packages\django\utils\log.py first seen with mtime 1717848229.9136071
+File C:\python\Lib\asyncio\base_futures.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\urls.py first seen with mtime 1734778031.6761866
+File C:\python\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1717848227.7891333
+File C:\python\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1717848229.6672437
+File C:\python\Lib\site-packages\django\template\backends\django.py first seen with mtime 1717848229.8820093
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\urls.py first seen with mtime 1733924640.5721333
+File C:\python\Lib\string.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\conf\__init__.py first seen with mtime 1717848227.5474834
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\apps.py first seen with mtime 1733924068.2376797
+File C:\python\Lib\site-packages\django\utils\decorators.py first seen with mtime 1717848229.907139
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\forms.py first seen with mtime 1734607320.9743037
+File C:\python\Lib\site-packages\django\db\models\manager.py first seen with mtime 1717848229.7594664
+File C:\python\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1717848226.9283206
+File C:\python\Lib\asyncio\events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1717848229.7807746
+File C:\python\Lib\site-packages\django\core\checks\files.py first seen with mtime 1717848229.6621811
+File C:\python\Lib\json\scanner.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\generic\base.py first seen with mtime 1717848229.9328048
+File C:\python\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1717848229.7088957
+File C:\python\Lib\site-packages\django\templatetags\static.py first seen with mtime 1717848229.8889496
+File C:\python\Lib\ipaddress.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1717848229.6467035
+File C:\python\Lib\queue.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1717848229.6429203
+File C:\python\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1717848229.8750346
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1717848229.7393012
+File C:\python\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1717848229.3808846
+File C:\python\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1717848229.7480214
+File C:\python\Lib\encodings\utf_8.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\subprocess.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1717848229.7781308
+File C:\python\Lib\site-packages\django\core\management\color.py first seen with mtime 1717848229.6856043
+File C:\python\Lib\socket.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1717848226.9308074
+File C:\python\Lib\fnmatch.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1717848229.7578146
+File C:\python\Lib\contextvars.py first seen with mtime 1692878350.0
+File C:\python\Lib\re\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\concurrent\futures\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\ctypes\wintypes.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\manage.py first seen with mtime 1731513403.5417428
+File C:\python\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1717848229.6724255
+File C:\python\Lib\asyncio\base_tasks.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1717848228.1983256
+File C:\python\Lib\encodings\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\zoneinfo\_common.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\http\response.py first seen with mtime 1717848229.8658774
+File C:\python\Lib\mimetypes.py first seen with mtime 1692878352.0
+File C:\python\Lib\keyword.py first seen with mtime 1692878352.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\admin.py first seen with mtime 1733928161.7040691
+File C:\python\Lib\site-packages\django\core\files\storage\mixins.py first seen with mtime 1717848229.675518
+File C:\python\Lib\site-packages\django\utils\cache.py first seen with mtime 1717848229.9023461
+File C:\python\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1717848229.7098956
+File C:\python\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1717848229.6782804
+File C:\python\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1717848229.912166
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1717848229.7377658
+File C:\python\Lib\http\client.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1717848229.7568312
+File C:\python\Lib\email\mime\base.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1717848229.8859394
+File C:\python\Lib\ctypes\_endian.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\base_events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\files\temp.py first seen with mtime 1717848229.671106
+File C:\python\Lib\email\mime\message.py first seen with mtime 1692878350.0
+File C:\python\Lib\ast.py first seen with mtime 1692878350.0
+File C:\python\Lib\gettext.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1717848229.9292707
+File C:\python\Lib\struct.py first seen with mtime 1692878352.0
+File C:\python\Lib\datetime.py first seen with mtime 1692878350.0
+File C:\python\Lib\sysconfig.py first seen with mtime 1692878352.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\__init__.py first seen with mtime 1733924067.1435037
+File C:\python\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1717848229.7108958
+File C:\python\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1717848229.9076388
+File C:\python\Lib\asyncio\transports.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1717848228.6862504
+File C:\python\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1717848229.8874452
+File C:\python\Lib\site-packages\django\core\mail\message.py first seen with mtime 1717848229.6793885
+File C:\python\Lib\quopri.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1717848228.3582435
+File C:\python\Lib\site-packages\django\contrib\auth\urls.py first seen with mtime 1717848228.3582435
+File C:\python\Lib\site-packages\django\db\models\utils.py first seen with mtime 1717848229.7630012
+File C:\python\Lib\site-packages\asgiref\sync.py first seen with mtime 1717848227.398059
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1717848228.1968696
+File C:\python\Lib\random.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1717848229.9010398
+File C:\python\Lib\site-packages\django\forms\renderers.py first seen with mtime 1717848229.7845192
+File C:\python\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1717848229.90501
+File C:\python\Lib\site-packages\django\utils\duration.py first seen with mtime 1717848229.9077926
+File C:\python\Lib\pathlib.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\template\backends\base.py first seen with mtime 1717848229.881431
+File C:\python\Lib\email\contentmanager.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1717848229.5198002
+File C:\python\Lib\collections\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\forms\forms.py first seen with mtime 1717848229.7820482
+File C:\python\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1717848229.770446
+File C:\python\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1717848229.8663776
+File C:\python\Lib\site-packages\django\core\paginator.py first seen with mtime 1717848229.6528296
+File C:\python\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1717848229.7529259
+File C:\python\Lib\json\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\multiprocessing\context.py first seen with mtime 1692878352.0
+File C:\python\Lib\bz2.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1717848229.75052
+File C:\python\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1717848229.7726583
+File C:\python\DLLs\unicodedata.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\colorama\win32.py first seen with mtime 1730012279.2505045
+File C:\python\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1717848229.6765184
+File C:\python\Lib\bisect.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1717848229.7714953
+File C:\python\Lib\site-packages\django\utils\choices.py first seen with mtime 1717848229.9032538
+File C:\python\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1717848229.764
+File C:\python\Lib\calendar.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1717848229.9343047
+File C:\python\Lib\shutil.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\apps\registry.py first seen with mtime 1717848227.546911
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1717848228.2003622
+File C:\python\Lib\enum.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1717848228.2026176
+File C:\python\Lib\concurrent\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\windows_utils.py first seen with mtime 1692878350.0
+File C:\python\Lib\re\_compiler.py first seen with mtime 1692878352.0
+File C:\python\Lib\json\decoder.py first seen with mtime 1692878352.0
+File C:\python\Lib\html\parser.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\http\request.py first seen with mtime 1717848229.8652818
+File C:\python\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1717848229.7583263
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1717848229.7365558
+File C:\python\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1717848229.918332
+File C:\python\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1717848229.7693236
+File C:\python\DLLs\select.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1717848229.7098956
+File C:\python\Lib\site-packages\django\utils\version.py first seen with mtime 1717848229.921519
+File C:\python\Lib\threading.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1717848229.7028956
+File C:\python\Lib\asyncio\threads.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\forms\fields.py first seen with mtime 1717848229.7815123
+File C:\python\Lib\site-packages\django\forms\utils.py first seen with mtime 1717848229.7850199
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1717848228.2009623
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\views.py first seen with mtime 1734780403.1424222
+File C:\python\Lib\site-packages\django\db\models\signals.py first seen with mtime 1717848229.7624993
+File C:\python\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1717848229.6424637
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\views.py first seen with mtime 1733924648.0168455
+File C:\python\Lib\wsgiref\util.py first seen with mtime 1692878352.0
+File C:\python\Lib\encodings\aliases.py first seen with mtime 1692878350.0
+File C:\python\DLLs\_asyncio.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1717848229.7435124
+File C:\python\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1717848229.3843243
+File C:\python\Lib\tokenize.py first seen with mtime 1692878352.0
+File C:\python\Lib\fractions.py first seen with mtime 1692878350.0
+File C:\python\Lib\getpass.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\_distutils_hack\__init__.py first seen with mtime 1693282776.6697927
+File C:\python\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1717848229.7786307
+File C:\python\Lib\email\header.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1717848228.1975484
+File C:\python\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1717848228.203839
+File C:\python\Lib\site-packages\django\core\files\storage\memory.py first seen with mtime 1717848229.6750183
+File C:\python\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1717848228.5230026
+File C:\python\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1717848229.7731943
+File C:\python\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1717848229.7753177
+File C:\python\Lib\site-packages\django\core\files\storage\__init__.py first seen with mtime 1717848229.6734138
+File C:\python\Lib\site-packages\django\forms\__init__.py first seen with mtime 1717848229.7802272
+File C:\python\DLLs\_overlapped.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\asyncio\queues.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\shortcuts.py first seen with mtime 1717848227.5451267
+File C:\python\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1717848229.3822398
+File C:\python\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1717848229.711896
+File C:\python\DLLs\_hashlib.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\selectors.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1717848229.6667442
+File C:\python\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1717848229.6467035
+File C:\python\Lib\wsgiref\headers.py first seen with mtime 1692878352.0
+File C:\python\Lib\email\base64mime.py first seen with mtime 1692878350.0
+File C:\python\Lib\contextlib.py first seen with mtime 1692878350.0
+File C:\python\Lib\numbers.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\mixins.py first seen with mtime 1692878350.0
+File C:\python\Lib\multiprocessing\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\dates.py first seen with mtime 1717848229.9063046
+File C:\python\Lib\token.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\files\storage\base.py first seen with mtime 1717848229.6738572
+File C:\python\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1717848226.9323883
+File C:\python\Lib\site-packages\django\utils\_os.py first seen with mtime 1717848229.9001539
+File C:\python\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1717848229.6461842
+File C:\python\Lib\email\_parseaddr.py first seen with mtime 1692878350.0
+File C:\python\Lib\encodings\cp1251.py first seen with mtime 1692878350.0
+File C:\python\Lib\pickle.py first seen with mtime 1692878352.0
+File C:\python\Lib\uuid.py first seen with mtime 1692878352.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\__init__.py first seen with mtime 1731513402.4927604
+File C:\python\Lib\dataclasses.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\colorama\initialise.py first seen with mtime 1730012279.2505045
+File C:\python\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1717848227.3963494
+File C:\python\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1717848229.9143867
+File C:\python\Lib\logging\config.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1717848229.8785386
+File C:\python\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1717848229.9224534
+File C:\python\DLLs\_decimal.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\middleware\cache.py first seen with mtime 1717848229.8668778
+File C:\python\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1717848229.7455194
+File C:\python\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1717848229.6601026
+File C:\python\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1717848229.6419642
+File C:\python\Lib\email\parser.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1717848229.9176786
+File C:\python\Lib\email\_encoded_words.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\utils.py first seen with mtime 1717848229.7068958
+File C:\python\Lib\site-packages\django\core\wsgi.py first seen with mtime 1717848229.6548748
+File C:\python\Lib\asyncio\taskgroups.py first seen with mtime 1692878350.0
+File C:\python\Lib\zoneinfo\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\middleware\security.py first seen with mtime 1717848229.870667
+File C:\python\Lib\re\_casefix.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1717848229.8683832
+File C:\python\Lib\nturl2path.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1717848229.7485237
+File C:\python\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1717848228.3592677
+File C:\python\Lib\weakref.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1717848229.7450197
+File C:\python\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1717848228.3516586
+File C:\python\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1717848229.6798887
+File C:\python\Lib\types.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\tasks.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\signing.py first seen with mtime 1717848229.6535187
+File C:\python\Lib\email\mime\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\__init__.py first seen with mtime 1717848229.7058957
+File C:\python\Lib\email\_policybase.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\connection.py first seen with mtime 1717848229.9037535
+File C:\python\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1717848227.7958033
+File C:\python\Lib\email\mime\text.py first seen with mtime 1692878350.0
+File C:\python\Lib\functools.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1717848229.741586
+File C:\python\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1717848226.9398334
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1717848229.7408013
+File C:\python\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1717848229.3812401
+File C:\python\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1717848229.67878
+File C:\python\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1717848229.8879454
+File C:\python\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1717848229.927766
+File C:\python\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1717848226.9313838
+File C:\python\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1717848227.793133
+File C:\python\Lib\asyncio\trsock.py first seen with mtime 1692878350.0
+File C:\python\Lib\glob.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\models.py first seen with mtime 1734270168.8862357
+File C:\python\Lib\site-packages\django\core\validators.py first seen with mtime 1717848229.6543715
+File C:\python\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1717848229.6773603
+File C:\python\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1717848229.751032
+File C:\python\Lib\asyncio\runners.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\cli.py first seen with mtime 1717848226.9269693
+File C:\python\Lib\copyreg.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1717848229.7430124
+File C:\python\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1717848229.880844
+File C:\python\Lib\asyncio\format_helpers.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1717848229.6637084
+File C:\python\Lib\asyncio\sslproto.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1717848226.9344938
+File C:\python\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1717848229.7791057
+File C:\python\Lib\site-packages\django\core\checks\database.py first seen with mtime 1717848229.6616251
+File C:\python\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1717848229.7709458
+File C:\python\Lib\site-packages\django\utils\safestring.py first seen with mtime 1717848229.9176786
+File C:\python\Lib\asyncio\base_subprocess.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1717848229.7588265
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\apps.py first seen with mtime 1734707164.5036745
+File C:\python\Lib\site-packages\django\views\__init__.py first seen with mtime 1717848229.9247782
+File C:\python\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1717848229.7500205
+File C:\python\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1717848229.90551
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\apps.py first seen with mtime 1731513468.126687
+File C:\python\Lib\hmac.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1717848228.3534632
+File C:\python\Lib\email\mime\nonmultipart.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1717848227.7861333
+File C:\python\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1717848229.6679509
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1717848229.7398014
+File C:\python\Lib\logging\handlers.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1717848229.9129112
+File C:\python\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1717848229.8835998
+File C:\python\Lib\site-packages\django\utils\tree.py first seen with mtime 1717848229.920628
+File C:\python\Lib\site-packages\django\db\models\enums.py first seen with mtime 1717848229.757269
+File C:\python\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1717848229.6674418
+File C:\python\Lib\asyncio\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1717848229.6582906
+File C:\python\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1717848229.6652684
+File C:\python\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1717848229.701892
+File C:\python\Lib\concurrent\futures\_base.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1717848226.9379232
+File C:\python\Lib\site-packages\django\http\cookie.py first seen with mtime 1717848229.8639958
+File C:\python\Lib\site-packages\django\urls\converters.py first seen with mtime 1717848229.8971875
+File C:\python\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1717848229.8854387
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\admin.py first seen with mtime 1734707162.7474897
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\admin.py first seen with mtime 1731513467.5602827
+File C:\python\Lib\site-packages\django\template\context.py first seen with mtime 1717848229.8732567
+File C:\python\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1717848227.7901335
+File C:\python\Lib\asyncio\exceptions.py first seen with mtime 1692878350.0
+File C:\python\Lib\email\quoprimime.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\timezone.py first seen with mtime 1717848229.9204495
+File C:\python\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1717848229.38374
+File C:\python\Lib\site-packages\django\views\defaults.py first seen with mtime 1717848229.9263384
+File C:\python\Lib\email\iterators.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1717848229.1425114
+File C:\python\Lib\urllib\error.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\_functions.py first seen with mtime 1717848229.7370558
+File C:\python\Lib\site-packages\django\views\static.py first seen with mtime 1717848229.9273725
+File C:\python\Lib\secrets.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1717848229.7768211
+File C:\python\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1717848229.8849385
+File C:\python\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1717848229.7138965
+File C:\python\Lib\urllib\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1717848229.7088957
+File C:\python\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1717848229.9016948
+File C:\python\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1717848227.788133
+File C:\python\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1717848226.9339938
+File C:\python\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1717848229.7048957
+File C:\python\Lib\site-packages\django\conf\urls\static.py first seen with mtime 1717848227.787133
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\__init__.py first seen with mtime 1734707162.7874897
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\__init__.py first seen with mtime 1731513467.586759
+File C:\python\DLLs\_sqlite3.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\email\message.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\forms\models.py first seen with mtime 1717848229.7835886
+File C:\python\Lib\email\_header_value_parser.py first seen with mtime 1692878350.0
+File C:\python\Lib\graphlib.py first seen with mtime 1692878350.0
+File C:\python\DLLs\_lzma.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1717848229.707896
+File C:\python\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1717848229.88845
+File C:\python\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1717848228.3496594
+File C:\python\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1717848228.3539624
+File C:\python\Lib\collections\abc.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1717848229.6657684
+File C:\python\Lib\site-packages\django\core\files\images.py first seen with mtime 1717848229.6695433
+File C:\python\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1717848229.701892
+File C:\python\Lib\site-packages\sqlparse\sql.py first seen with mtime 1717848226.9313838
+File C:\python\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1717848229.6778667
+File C:\python\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1717848229.7619996
+File C:\python\Lib\site-packages\django\middleware\common.py first seen with mtime 1717848229.8673778
+File C:\python\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1717848229.3803844
+File C:\python\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1717848227.7921333
+File C:\python\Lib\asyncio\log.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\autoreload.py first seen with mtime 1717848229.8716667
+File C:\python\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1717848229.6472032
+File C:\python\Lib\importlib\_abc.py first seen with mtime 1692878352.0
+File C:\python\Lib\sqlite3\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\files\storage\handler.py first seen with mtime 1717848229.674518
+File C:\python\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1717848229.7534263
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1717848229.7403011
+File C:\python\Lib\email\feedparser.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\smartif.py first seen with mtime 1717848229.8797994
+File C:\python\Lib\linecache.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1717848229.9300942
+File C:\python\Lib\email\charset.py first seen with mtime 1692878350.0
+File C:\python\Lib\locale.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1717848228.3509927
+File C:\python\Lib\asyncio\futures.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1717848229.86471
+File C:\python\DLLs\_zoneinfo.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\template\library.py first seen with mtime 1717848229.8775425
+File C:\python\Lib\email\generator.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\apps\config.py first seen with mtime 1717848227.5466604
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\urls.py first seen with mtime 1734344750.7785165
+File C:\python\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1717848226.9336658
+File C:\python\Lib\json\encoder.py first seen with mtime 1692878352.0
+File C:\python\Lib\wsgiref\simple_server.py first seen with mtime 1692878352.0
+File C:\python\Lib\operator.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\win32\lib\pywin32_bootstrap.py first seen with mtime 1730012252.732679
+File C:\python\Lib\copy.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1717848229.663181
+File C:\python\Lib\site-packages\django\forms\formsets.py first seen with mtime 1717848229.782577
+File C:\python\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1717848229.924453
+File C:\python\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1717848228.2015169
+File C:\python\Lib\base64.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1717848228.3491385
+File C:\python\Lib\heapq.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\constants.py first seen with mtime 1717848229.7551434
+File C:\python\Lib\ctypes\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\wsgiref\handlers.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\csrf.py first seen with mtime 1717848229.9253151
+File C:\python\Lib\difflib.py first seen with mtime 1692878350.0
+File C:\python\Lib\statistics.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1717848229.917179
+File C:\python\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1717848228.354735
+File C:\python\Lib\site-packages\django\core\files\base.py first seen with mtime 1717848229.669043
+File C:\python\Lib\ssl.py first seen with mtime 1692878352.0
+File C:\python\Lib\html\entities.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\colorama\ansi.py first seen with mtime 1730012279.2485027
+File C:\python\Lib\email\encoders.py first seen with mtime 1692878350.0
+File C:\python\DLLs\_ssl.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\template\engine.py first seen with mtime 1717848229.8755345
+File C:\python\Lib\argparse.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1717848228.3501596
+File C:\python\DLLs\_socket.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1717848228.3486054
+File C:\python\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1717848226.9364717
+File C:\python\DLLs\_bz2.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\urllib\response.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1717848228.3577108
+File C:\python\Lib\site-packages\django\urls\utils.py first seen with mtime 1717848229.8985083
+File C:\python\DLLs\_queue.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1717848229.3798652
+File C:\python\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1717848229.7687857
+File C:\python\Lib\subprocess.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1717848229.6760182
+File C:\python\Lib\decimal.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1717848228.5235941
+File C:\python\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1717848229.7522278
+File C:\python\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1717848228.5210555
+File C:\python\Lib\site-packages\django\template\exceptions.py first seen with mtime 1717848229.8755345
+File C:\python\Lib\html\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\re\_constants.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1717848229.8985083
+File C:\python\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1717848226.9352026
+File C:\python\Lib\asyncio\proactor_events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1717848229.6626809
+File C:\python\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1717848229.7758179
+File C:\python\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1717848226.940571
+File C:\python\Lib\site-packages\django\urls\__init__.py first seen with mtime 1717848229.8956695
+File C:\python\Lib\asyncio\staggered.py first seen with mtime 1692878350.0
+File C:\python\Lib\wsgiref\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\traceback.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\template\base.py first seen with mtime 1717848229.872573
+File C:\python\Lib\asyncio\timeouts.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\files\move.py first seen with mtime 1717848229.670543
+File C:\python\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1717848229.6716058
+File C:\python\Lib\site-packages\django\utils\crypto.py first seen with mtime 1717848229.9039292
+File C:\python\Lib\hashlib.py first seen with mtime 1692878350.0
+File C:\python\Lib\zoneinfo\_tzpath.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1717848229.9338045
+File C:\python\Lib\importlib\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\tempfile.py first seen with mtime 1692878352.0
+File C:\python\Lib\opcode.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1717848229.5150316
+File C:\python\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1717848229.712896
+File C:\python\Lib\gzip.py first seen with mtime 1692878350.0
+File C:\python\Lib\email\mime\multipart.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\asgiref\local.py first seen with mtime 1717848227.3970263
+File C:\python\Lib\asyncio\selector_events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1717848229.7517283
+File C:\python\Lib\site-packages\django\utils\inspect.py first seen with mtime 1717848229.911932
+File C:\python\Lib\asyncio\streams.py first seen with mtime 1692878350.0
+File C:\python\Lib\socketserver.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1717848229.8976874
+File C:\python\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1717848229.1425114
+File C:\python\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1717848229.1430764
+File C:\python\Lib\email\errors.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1717848228.3568978
+File C:\python\Lib\site-packages\django\urls\base.py first seen with mtime 1717848229.8961878
+File C:\python\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1717848229.684495
+File C:\python\Lib\warnings.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1717848227.7941334
+File C:\python\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1717848229.6611252
+File C:\python\Lib\site-packages\colorama\__init__.py first seen with mtime 1730012279.2485027
+File C:\python\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1717848229.9229534
+File C:\python\Lib\asyncio\locks.py first seen with mtime 1692878350.0
+File C:\python\Lib\concurrent\futures\thread.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1717848228.5020337
+File C:\python\Lib\site-packages\asgiref\__init__.py first seen with mtime 1717848227.3955832
+File C:\python\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1717848227.7958033
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1717848228.1993244
+File C:\python\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1717848228.355193
+File C:\python\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1717848229.7048957
+File C:\python\Lib\site-packages\django\utils\functional.py first seen with mtime 1717848229.9096444
+File C:\python\Lib\email\utils.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1717848226.9400318
+File C:\python\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1717848229.7669232
+File C:\python\Lib\multiprocessing\process.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\generic\list.py first seen with mtime 1717848229.9352212
+File C:\python\Lib\http\server.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1717848229.8843346
+File C:\python\Lib\site-packages\django\template\response.py first seen with mtime 1717848229.8785386
+File C:\python\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1717848227.7941334
+File C:\python\Lib\site-packages\colorama\winterm.py first seen with mtime 1730012279.2515068
+File C:\python\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1717848229.3817403
+File C:\python\Lib\site-packages\django\core\management\base.py first seen with mtime 1717848229.6851645
+File C:\python\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1717848229.6436193
+File C:\python\Lib\site-packages\django\apps\__init__.py first seen with mtime 1717848227.5461605
+File C:\python\Lib\signal.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1717848229.655813
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\urls.py first seen with mtime 1734707274.524054
+File C:\python\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1717848229.1467497
+File C:\python\Lib\site-packages\django\utils\hashable.py first seen with mtime 1717848229.9101465
+File C:\python\Lib\email\policy.py first seen with mtime 1692878350.0
+File C:\python\Lib\reprlib.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\options.py first seen with mtime 1717848229.7605126
+File C:\python\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1717848229.7773213
+File C:\python\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1717848227.788133
+File C:\python\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1717848229.7740166
+File C:\python\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1717848229.9044662
+File C:\python\Lib\site-packages\django\urls\conf.py first seen with mtime 1717848229.8966877
+File C:\python\Lib\site-packages\django\utils\http.py first seen with mtime 1717848229.9114318
+File C:\python\Lib\email\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\urllib\request.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1717848229.1454003
+File C:\python\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1717848229.660625
+File C:\python\Lib\asyncio\windows_events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1717848229.9344113
+File C:\python\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1717848229.6648753
+File C:\python\Lib\pprint.py first seen with mtime 1692878352.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\models.py first seen with mtime 1734707162.7674894
+File C:\python\Lib\asyncio\protocols.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\__init__.py first seen with mtime 1717848227.5443368
+File C:\python\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1717848229.655313
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\models.py first seen with mtime 1731513467.5747497
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\views.py first seen with mtime 1734503872.692986
+File C:\python\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1717848229.655813
+File C:\python\Lib\pkgutil.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1717848229.701392
+File C:\python\Lib\typing.py first seen with mtime 1692878352.0
+File C:\python\Lib\urllib\parse.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1717848227.791133
+File C:\python\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1717848229.7658517
+File C:\python\Lib\site-packages\django\forms\widgets.py first seen with mtime 1717848229.7855988
+File C:\python\Lib\logging\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1717848226.9369714
+File C:\python\Lib\dis.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1717848227.5485086
+File C:\python\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1717848229.1468332
+File C:\python\Lib\http\cookies.py first seen with mtime 1692878350.0
+File C:\python\Lib\_weakrefset.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1717848229.687176
+File C:\python\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1717848229.6643755
+File C:\python\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1717848229.6587925
+File C:\python\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1717848229.7108958
+File C:\python\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1717848229.9161792
+File C:\python\Lib\platform.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\i18n.py first seen with mtime 1717848229.9268727
+File C:\python\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1717848229.7644992
+File C:\python\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1717848227.787133
+File C:\python\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1717848228.5206118
+File C:\python\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1717848228.5220613
+File C:\python\Lib\textwrap.py first seen with mtime 1692878352.0
+File C:\python\Lib\sqlite3\dbapi2.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1717848229.656813
+File C:\python\Lib\re\_parser.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\files\utils.py first seen with mtime 1717848229.6729138
+File C:\python\Lib\site-packages\django\core\files\locks.py first seen with mtime 1717848229.6700428
+File C:\python\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1717848229.906804
+File C:\python\Lib\site-packages\django\db\models\query.py first seen with mtime 1717848229.7613049
+File C:\python\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1717848229.8745348
+File C:\python\Lib\site-packages\django\db\transaction.py first seen with mtime 1717848229.7068958
+File C:\python\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1717848229.9283044
+File C:\python\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1717848229.5193
+File C:\python\Lib\site-packages\django\core\files\storage\filesystem.py first seen with mtime 1717848229.6740181
+File C:\python\Lib\_compat_pickle.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\base.py first seen with mtime 1717848229.754643
+File C:\python\Lib\multiprocessing\reduction.py first seen with mtime 1692878352.0
+File C:\python\Lib\inspect.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1717848229.668543
+File C:\python\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1717848229.7556436
+File C:\python\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1717848226.9303553
+File C:\python\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1717848227.7901335
+File C:\python\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1717848229.707896
+File C:\python\Lib\http\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\timesince.py first seen with mtime 1717848229.9199436
+File C:\python\Lib\site-packages\django\utils\__init__.py first seen with mtime 1717848229.8990078
+File C:\python\Lib\site-packages\django\utils\formats.py first seen with mtime 1717848229.9094722
+File C:\python\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1717848229.9305942
+File C:\python\Lib\site-packages\django\utils\text.py first seen with mtime 1717848229.9193313
+File C:\python\Lib\site-packages\django\utils\encoding.py first seen with mtime 1717848229.9082923
+File C:\python\Lib\site-packages\django\db\models\fields\generated.py first seen with mtime 1717848229.7649994
+File C:\python\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1717848229.7679963
+File C:\python\Lib\site-packages\django\core\__init__.py first seen with mtime 1717848229.65119
+File C:\python\Lib\asyncio\constants.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\utils.py first seen with mtime 1717848229.880299
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users first seen with mtime 1734713432.7216237
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users\login.html first seen with mtime 1734780594.1015635
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users\logout.html first seen with mtime 1734708960.751938
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users\register.html first seen with mtime 1734713307.454411
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news first seen with mtime 1734344838.0437827
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news\add_news.html first seen with mtime 1734607186.3917792
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news\news.html first seen with mtime 1734345009.5188224
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news\news_view.html first seen with mtime 1734343409.5701864
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main first seen with mtime 1733924882.6274042
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\about.html first seen with mtime 1731831129.9777913
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\contacts.html first seen with mtime 1733827271.6114347
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\index.html first seen with mtime 1734777355.0887883
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\main_content.html first seen with mtime 1733922961.7418466
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1717848228.5123372
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1717848228.5111477
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\0002_alter_articles_options.py first seen with mtime 1734150854.5799434
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1717848228.516679
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1717848228.515168
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1717848228.0788403
+File C:\python\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1717848228.6878293
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1717848228.5161057
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\0003_articles_autor_alter_articles_anons_and_more.py first seen with mtime 1734259959.059199
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1717848228.5105398
+File C:\python\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1717848229.5120327
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1717848228.0777452
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1717848228.5177245
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\__init__.py first seen with mtime 1733924067.1435037
+File C:\python\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1717848229.7748182
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1717848228.078944
+File C:\python\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1717848229.385506
+File C:\python\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1717848229.5119338
+File C:\python\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1717848229.7470193
+File C:\python\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1717848228.6878293
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1717848228.5121086
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\migrations\__init__.py first seen with mtime 1734707162.7874897
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1717848228.0777452
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1717848228.5131323
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\migrations\__init__.py first seen with mtime 1731513467.5877593
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1717848228.5146344
+File C:\python\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1717848228.688832
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\wsgi.py first seen with mtime 1731513403.520744
+File C:\python\Lib\stringprep.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1717848229.8673778
+File C:\python\Lib\encodings\idna.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1717848228.5172243
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1717848228.5092626
+File C:\python\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1717848229.7440124
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1717848228.5116088
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\0001_initial.py first seen with mtime 1733926589.1057265
+"GET / HTTP/1.1" 200 2222
+"GET /static/styles/main.css HTTP/1.1" 404 1905
+File C:\python\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1717848229.1485047
+File C:\python\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1717848229.143794
+File C:\python\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1717848229.38324
+File C:\python\Lib\site-packages\django\template\context_processors.py first seen with mtime 1717848229.8738275
+File C:\python\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1717848229.1473684
+File C:\python\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1717848229.147926
+File C:\python\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1717848228.3527026
+File C:\python\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1717848229.6447327
+Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+"GET /users/login/ HTTP/1.1" 500 79890
+File C:\python\Lib\site-packages\django\conf\locale\ru\formats.py first seen with mtime 1717848227.7299433
+File C:\python\Lib\importlib\resources\_adapters.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\abc.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\readers.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\conf\locale\ru\__init__.py first seen with mtime 1717848227.728943
+File C:\python\Lib\importlib\resources\_common.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\_itertools.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\readers.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\tzdata\__init__.py first seen with mtime 1717848226.5469155
+File C:\python\Lib\importlib\resources\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1717848226.5733142
+File C:\python\Lib\zipfile.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\_legacy.py first seen with mtime 1692878352.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py previous mtime: 1734780911.2874985, current mtime: 1734780995.7022488
+C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py notified as changed. Signal results: [(<function template_changed at 0x00000243B2EFD8A0>, None), (<function translation_file_changed at 0x00000243B407F380>, None)].
+C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates with glob **/*.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates with glob **/*.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates with glob **/*.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\locale with glob **/*.mo.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\locale with glob **/*.mo.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\locale with glob **/*.mo.
+Watching dir C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\locale with glob **/*.mo.
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+File C:\python\Lib\calendar.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1717848229.8985083
+File C:\python\Lib\site-packages\django\core\files\storage\filesystem.py first seen with mtime 1717848229.6740181
+File C:\python\Lib\statistics.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\crypto.py first seen with mtime 1717848229.9039292
+File C:\python\Lib\traceback.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1717848229.7138965
+File C:\python\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1717848229.7028956
+File C:\python\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1717848229.9176786
+File C:\python\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1717848229.7048957
+File C:\python\Lib\multiprocessing\process.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1717848226.9283206
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\admin.py first seen with mtime 1733928161.7040691
+File C:\python\Lib\email\mime\base.py first seen with mtime 1692878350.0
+File C:\python\Lib\logging\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\email\_encoded_words.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\smartif.py first seen with mtime 1717848229.8797994
+File C:\python\Lib\enum.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1717848228.3568978
+File C:\python\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1717848226.9400318
+File C:\python\Lib\site-packages\django\conf\__init__.py first seen with mtime 1717848227.5474834
+File C:\python\Lib\http\cookies.py first seen with mtime 1692878350.0
+File C:\python\DLLs\_bz2.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1717848228.2003622
+File C:\python\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1717848229.8874452
+File C:\python\Lib\_markupbase.py first seen with mtime 1692878350.0
+File C:\python\Lib\concurrent\futures\thread.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1717848229.918332
+File C:\python\Lib\encodings\aliases.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1717848228.2015169
+File C:\python\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1717848229.701892
+File C:\python\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1717848228.3516586
+File C:\python\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1717848229.8854387
+File C:\python\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1717848229.7699134
+File C:\python\Lib\linecache.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\constants.py first seen with mtime 1717848229.7551434
+File C:\python\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1717848229.6724255
+File C:\python\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1717848229.927766
+File C:\python\Lib\site-packages\colorama\ansi.py first seen with mtime 1730012279.2485027
+File C:\python\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1717848229.9076388
+File C:\python\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1717848229.712896
+File C:\python\Lib\site-packages\django\core\files\temp.py first seen with mtime 1717848229.671106
+File C:\python\Lib\site-packages\django\http\cookie.py first seen with mtime 1717848229.8639958
+File C:\python\Lib\site-packages\django\urls\__init__.py first seen with mtime 1717848229.8956695
+File C:\python\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1717848229.88845
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\admin.py first seen with mtime 1731513467.5602827
+File C:\python\Lib\site-packages\django\forms\utils.py first seen with mtime 1717848229.7850199
+File C:\python\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1717848229.8859394
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1717848229.7408013
+File C:\python\Lib\site-packages\django\forms\renderers.py first seen with mtime 1717848229.7845192
+File C:\python\Lib\html\entities.py first seen with mtime 1692878350.0
+File C:\python\Lib\encodings\cp1251.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1717848228.5204916
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\manage.py first seen with mtime 1731513403.5417428
+File C:\python\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1717848229.924453
+File C:\python\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1717848226.9344938
+File C:\python\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1717848229.3817403
+File C:\python\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1717848229.741586
+File C:\python\Lib\asyncio\staggered.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1717848228.5020337
+File C:\python\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1717848229.9143867
+File C:\python\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1717848227.791133
+File C:\python\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1717848227.7921333
+File C:\python\Lib\email\policy.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1717848228.3582435
+File C:\python\Lib\ast.py first seen with mtime 1692878350.0
+File C:\python\Lib\warnings.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\choices.py first seen with mtime 1717848229.9032538
+File C:\python\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1717848229.1430764
+File C:\python\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1717848229.684495
+File C:\python\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1717848229.7693236
+File C:\python\Lib\importlib\_abc.py first seen with mtime 1692878352.0
+File C:\python\Lib\glob.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\urls\base.py first seen with mtime 1717848229.8961878
+File C:\python\Lib\ipaddress.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1717848229.880844
+File C:\python\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1717848229.1454003
+File C:\python\Lib\encodings\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\files\utils.py first seen with mtime 1717848229.6729138
+File C:\python\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1717848229.9344113
+File C:\python\Lib\site-packages\django\utils\functional.py first seen with mtime 1717848229.9096444
+File C:\python\Lib\mimetypes.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1717848229.9338045
+File C:\python\Lib\site-packages\django\core\validators.py first seen with mtime 1717848229.6543715
+File C:\python\DLLs\unicodedata.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\db\models\enums.py first seen with mtime 1717848229.757269
+File C:\python\Lib\site-packages\django\template\loader.py first seen with mtime 1717848229.8785386
+File C:\python\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1717848229.38374
+File C:\python\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1717848229.656813
+File C:\python\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1717848227.7901335
+File C:\python\Lib\pickle.py first seen with mtime 1692878352.0
+File C:\python\Lib\urllib\error.py first seen with mtime 1692878352.0
+File C:\python\Lib\ctypes\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1717848226.9308074
+File C:\python\Lib\asyncio\log.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\dates.py first seen with mtime 1717848229.9063046
+File C:\python\Lib\site-packages\django\core\management\base.py first seen with mtime 1717848229.6851645
+File C:\python\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1717848226.9364717
+File C:\python\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1717848226.9369714
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1717848229.7377658
+File C:\python\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1717848229.9292707
+File C:\python\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1717848226.9333258
+File C:\python\Lib\copyreg.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1717848228.5220613
+File C:\python\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1717848229.687176
+File C:\python\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1717848229.7768211
+File C:\python\Lib\site-packages\django\template\__init__.py first seen with mtime 1717848229.871167
+File C:\python\Lib\asyncio\proactor_events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\urls\conf.py first seen with mtime 1717848229.8966877
+File C:\python\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1717848229.7644992
+File C:\python\Lib\json\decoder.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\forms\widgets.py first seen with mtime 1717848229.7855988
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\urls.py first seen with mtime 1734778031.6761866
+File C:\python\Lib\site-packages\django\db\models\signals.py first seen with mtime 1717848229.7624993
+File C:\python\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1717848229.6679509
+File C:\python\Lib\asyncio\mixins.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\files\storage\mixins.py first seen with mtime 1717848229.675518
+File C:\python\Lib\site-packages\django\template\library.py first seen with mtime 1717848229.8775425
+File C:\python\Lib\urllib\parse.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\utils.py first seen with mtime 1717848229.7068958
+File C:\python\Lib\json\scanner.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\encoding.py first seen with mtime 1717848229.9082923
+File C:\python\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1717848229.7687857
+File C:\python\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1717848226.9379232
+File C:\python\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1717848228.3496594
+File C:\python\Lib\site-packages\django\http\response.py first seen with mtime 1717848229.8658774
+File C:\python\Lib\ssl.py first seen with mtime 1692878352.0
+File C:\python\Lib\urllib\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\middleware\cache.py first seen with mtime 1717848229.8668778
+File C:\python\Lib\concurrent\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\re\_constants.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\csrf.py first seen with mtime 1717848229.9253151
+File C:\python\Lib\site-packages\asgiref\local.py first seen with mtime 1717848227.3970263
+File C:\python\Lib\site-packages\django\core\files\images.py first seen with mtime 1717848229.6695433
+File C:\python\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1717848229.8879454
+File C:\python\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1717848227.7861333
+File C:\python\Lib\site-packages\django\template\base.py first seen with mtime 1717848229.872573
+File C:\python\Lib\site-packages\django\core\files\storage\__init__.py first seen with mtime 1717848229.6734138
+File C:\python\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1717848229.8745348
+File C:\python\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1717848229.8976874
+File C:\python\Lib\zoneinfo\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\socket.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\duration.py first seen with mtime 1717848229.9077926
+File C:\python\Lib\email\utils.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1717848229.6424637
+File C:\python\Lib\site-packages\_distutils_hack\__init__.py first seen with mtime 1693282776.6697927
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\__init__.py first seen with mtime 1733924067.1435037
+File C:\python\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1717848229.9044662
+File C:\python\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1717848228.6862504
+File C:\python\Lib\multiprocessing\context.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1717848229.6601026
+File C:\python\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1717848227.3963494
+File C:\python\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1717848229.6461842
+File C:\python\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1717848229.7753177
+File C:\python\Lib\email\_header_value_parser.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1717848229.6472032
+File C:\python\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1717848229.7430124
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\models.py first seen with mtime 1734270168.8862357
+File C:\python\Lib\operator.py first seen with mtime 1692878352.0
+File C:\python\Lib\string.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\i18n.py first seen with mtime 1717848229.9268727
+File C:\python\Lib\site-packages\django\core\files\storage\base.py first seen with mtime 1717848229.6738572
+File C:\python\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1717848229.701392
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1717848229.7377658
+File C:\python\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1717848229.7731943
+File C:\python\Lib\site-packages\sqlparse\utils.py first seen with mtime 1717848226.9328256
+File C:\python\Lib\site-packages\django\db\models\fields\generated.py first seen with mtime 1717848229.7649994
+File C:\python\Lib\site-packages\django\template\autoreload.py first seen with mtime 1717848229.8716667
+File C:\python\Lib\asyncio\tasks.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\views.py first seen with mtime 1734503872.692986
+File C:\python\Lib\re\_compiler.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\shortcuts.py first seen with mtime 1717848227.5451267
+File C:\python\Lib\site-packages\django\core\checks\database.py first seen with mtime 1717848229.6616251
+File C:\python\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1717848229.7108958
+File C:\python\Lib\ctypes\wintypes.py first seen with mtime 1692878350.0
+File C:\python\Lib\json\encoder.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1717848229.6441188
+File C:\python\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1717848229.6798887
+File C:\python\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1717848229.7714953
+File C:\python\Lib\site-packages\django\core\files\storage\handler.py first seen with mtime 1717848229.674518
+File C:\python\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1717848228.3501596
+File C:\python\Lib\site-packages\django\utils\formats.py first seen with mtime 1717848229.9094722
+File C:\python\Lib\re\_parser.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1717848229.7781308
+File C:\python\Lib\site-packages\sqlparse\sql.py first seen with mtime 1717848226.9313838
+File C:\python\Lib\site-packages\django\template\engine.py first seen with mtime 1717848229.8755345
+File C:\python\Lib\token.py first seen with mtime 1692878352.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\__init__.py first seen with mtime 1731513467.586759
+File C:\python\DLLs\_zoneinfo.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\asyncio\futures.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1717848227.7941334
+File C:\python\Lib\urllib\request.py first seen with mtime 1692878352.0
+File C:\python\Lib\sysconfig.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1717848229.3808846
+File C:\python\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1717848229.9129112
+File C:\python\Lib\site-packages\django\template\backends\django.py first seen with mtime 1717848229.8820093
+File C:\python\Lib\site-packages\django\apps\registry.py first seen with mtime 1717848227.546911
+File C:\python\Lib\site-packages\django\db\models\options.py first seen with mtime 1717848229.7605126
+File C:\python\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1717848229.6611252
+File C:\python\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1717848228.519642
+File C:\python\Lib\threading.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1717848229.8869452
+File C:\python\Lib\email\mime\multipart.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1717848229.6487415
+File C:\python\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1717848229.6657684
+File C:\python\Lib\email\charset.py first seen with mtime 1692878350.0
+File C:\python\Lib\email\parser.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\colorama\initialise.py first seen with mtime 1730012279.2505045
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\models.py first seen with mtime 1731513467.5747497
+File C:\python\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1717848229.86471
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\_functions.py first seen with mtime 1717848229.7370558
+File C:\python\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1717848229.90501
+File C:\python\Lib\socketserver.py first seen with mtime 1692878352.0
+File C:\python\Lib\dis.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\apps.py first seen with mtime 1734707164.5036745
+File C:\python\DLLs\_uuid.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\asgiref\sync.py first seen with mtime 1717848227.398059
+File C:\python\Lib\types.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\template\exceptions.py first seen with mtime 1717848229.8755345
+File C:\python\Lib\_compat_pickle.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1717848228.5230026
+File C:\python\Lib\graphlib.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\base_subprocess.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\log.py first seen with mtime 1717848229.9136071
+File C:\python\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1717848229.655813
+File C:\python\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1717848229.7719953
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\views.py first seen with mtime 1733924648.0168455
+File C:\python\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1717848229.8750346
+File C:\python\Lib\email\mime\message.py first seen with mtime 1692878350.0
+File C:\python\Lib\heapq.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1717848229.8849385
+File C:\python\Lib\contextlib.py first seen with mtime 1692878350.0
+File C:\python\Lib\hashlib.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1717848229.7517283
+File C:\python\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1717848227.787133
+File C:\python\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1717848228.5235941
+File C:\python\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1717848227.7891333
+File C:\python\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1717848229.1467497
+File C:\python\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1717848229.6429203
+File C:\python\Lib\asyncio\format_helpers.py first seen with mtime 1692878350.0
+File C:\python\Lib\tempfile.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\__init__.py first seen with mtime 1717848229.9247782
+File C:\python\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1717848229.7791057
+File C:\python\Lib\fractions.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1717848227.7958033
+File C:\python\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1717848229.7578146
+File C:\python\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1717848229.75052
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1717848229.7403011
+File C:\python\Lib\site-packages\django\db\models\utils.py first seen with mtime 1717848229.7630012
+File C:\python\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1717848229.7138965
+File C:\python\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1717848228.203839
+File C:\python\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1717848228.3568287
+File C:\python\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1717848229.7807746
+File C:\python\Lib\multiprocessing\reduction.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1717848229.655813
+File C:\python\Lib\email\encoders.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1717848229.7726583
+File C:\python\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1717848229.7721589
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1717848229.7365558
+File C:\python\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1717848229.7455194
+File C:\python\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1717848229.9161792
+File C:\python\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1717848229.1468332
+File C:\python\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1717848229.6436193
+File C:\python\DLLs\_queue.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1717848229.707896
+File C:\python\Lib\site-packages\django\utils\cache.py first seen with mtime 1717848229.9023461
+File C:\python\Lib\site-packages\django\apps\config.py first seen with mtime 1717848227.5466604
+File C:\python\Lib\asyncio\base_futures.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1717848228.3486054
+File C:\python\Lib\site-packages\django\core\files\move.py first seen with mtime 1717848229.670543
+File C:\python\Lib\collections\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1717848228.2026176
+File C:\python\Lib\site-packages\django\forms\fields.py first seen with mtime 1717848229.7815123
+File C:\python\Lib\site-packages\django\urls\converters.py first seen with mtime 1717848229.8971875
+File C:\python\Lib\zoneinfo\_common.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1717848229.7480214
+File C:\python\Lib\wsgiref\headers.py first seen with mtime 1692878352.0
+File C:\python\DLLs\_overlapped.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\core\wsgi.py first seen with mtime 1717848229.6548748
+File C:\python\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1717848229.9010398
+File C:\python\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1717848227.7941334
+File C:\python\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1717848229.9224534
+File C:\python\Lib\site-packages\django\core\management\color.py first seen with mtime 1717848229.6856043
+File C:\python\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1717848229.9229534
+File C:\python\Lib\site-packages\django\views\generic\base.py first seen with mtime 1717848229.9328048
+File C:\python\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1717848228.3563292
+File C:\python\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1717848229.6765184
+File C:\python\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1717848229.770446
+File C:\python\DLLs\_decimal.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1717848229.912166
+File C:\python\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1717848226.9352026
+File C:\python\Lib\site-packages\django\forms\formsets.py first seen with mtime 1717848229.782577
+File C:\python\Lib\site-packages\django\core\__init__.py first seen with mtime 1717848229.65119
+File C:\python\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1717848229.6626809
+File C:\python\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1717848229.906804
+File C:\python\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1717848229.7740166
+File C:\python\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1717848229.7522278
+File C:\python\Lib\keyword.py first seen with mtime 1692878352.0
+File C:\python\Lib\zoneinfo\_tzpath.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1717848229.6467035
+File C:\python\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1717848226.9303553
+File C:\python\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1717848228.3592677
+File C:\python\Lib\asyncio\events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\colorama\ansitowin32.py first seen with mtime 1730012279.2495048
+File C:\python\Lib\site-packages\django\template\context.py first seen with mtime 1717848229.8732567
+File C:\python\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1717848229.7098956
+File C:\python\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1717848228.3491385
+File C:\python\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1717848229.751032
+File C:\python\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1717848229.5198002
+File C:\python\Lib\gettext.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1717848227.7958033
+File C:\python\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1717848227.7901335
+File C:\python\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1717848229.660625
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\urls.py first seen with mtime 1734707274.524054
+File C:\python\Lib\logging\handlers.py first seen with mtime 1692878352.0
+File C:\python\Lib\inspect.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1717848229.7393012
+File C:\python\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1717848229.90551
+File C:\python\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1717848229.3803844
+File C:\python\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1717848229.6643755
+File C:\python\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1717848229.67878
+File C:\python\Lib\queue.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\base_events.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1717848229.8663776
+File C:\python\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1717848229.7709458
+File C:\python\Lib\site-packages\django\urls\utils.py first seen with mtime 1717848229.8985083
+File C:\python\Lib\email\errors.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\selector_events.py first seen with mtime 1692878350.0
+File C:\python\Lib\html\parser.py first seen with mtime 1692878350.0
+File C:\python\Lib\random.py first seen with mtime 1692878352.0
+File C:\python\DLLs\_sqlite3.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1717848229.6587925
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\__init__.py first seen with mtime 1731513402.4927604
+File C:\python\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1717848229.7663512
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\urls.py first seen with mtime 1734344750.7785165
+File C:\python\Lib\bisect.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\checks\files.py first seen with mtime 1717848229.6621811
+File C:\python\Lib\email\feedparser.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1717848229.9305942
+File C:\python\Lib\asyncio\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\email\_parseaddr.py first seen with mtime 1692878350.0
+File C:\python\Lib\selectors.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\subprocess.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1717848229.1425114
+File C:\python\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1717848229.6648753
+File C:\python\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1717848226.9339938
+File C:\python\Lib\asyncio\queues.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\forms.py first seen with mtime 1734607320.9743037
+File C:\python\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1717848229.7534263
+File C:\python\Lib\datetime.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1717848229.917179
+File C:\python\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1717848229.7485237
+File C:\python\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1717848226.9398334
+File C:\python\Lib\site-packages\django\middleware\security.py first seen with mtime 1717848229.870667
+File C:\python\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1717848229.9343047
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1717848228.2009623
+File C:\python\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1717848228.3577108
+File C:\python\Lib\email\iterators.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\__init__.py first seen with mtime 1717848227.5443368
+File C:\python\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1717848229.7658517
+File C:\python\DLLs\_lzma.pyd first seen with mtime 1692878400.0
+File C:\python\DLLs\_socket.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1717848229.6716058
+File C:\python\Lib\importlib\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\contextvars.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\forms\__init__.py first seen with mtime 1717848229.7802272
+File C:\python\DLLs\_ctypes.pyd first seen with mtime 1692878398.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\models.py first seen with mtime 1734707162.7674894
+File C:\python\Lib\collections\abc.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1717848226.940571
+File C:\python\Lib\email\contentmanager.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1717848226.9313838
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\urls.py first seen with mtime 1733924640.5721333
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1717848229.7398014
+File C:\python\Lib\lzma.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\forms\models.py first seen with mtime 1717848229.7835886
+File C:\python\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1717848229.7048957
+File C:\python\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1717848229.663181
+File C:\python\Lib\concurrent\futures\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1717848229.7786307
+File C:\python\Lib\dataclasses.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1717848229.8835998
+File C:\python\Lib\site-packages\django\db\models\query.py first seen with mtime 1717848229.7613049
+File C:\python\Lib\logging\config.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1717848228.5220613
+File C:\python\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1717848229.6582906
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\admin.py first seen with mtime 1734707162.7474897
+File C:\python\Lib\site-packages\colorama\win32.py first seen with mtime 1730012279.2505045
+File C:\python\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1717848229.7568312
+File C:\python\Lib\site-packages\django\core\exceptions.py first seen with mtime 1717848229.6521213
+File C:\python\Lib\site-packages\django\template\utils.py first seen with mtime 1717848229.880299
+File C:\python\Lib\site-packages\sqlparse\cli.py first seen with mtime 1717848226.9269693
+File C:\python\Lib\typing.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\constants.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1717848229.6638753
+File C:\python\Lib\email\generator.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1717848229.1425114
+File C:\python\Lib\concurrent\futures\_base.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1717848229.668543
+File C:\python\Lib\asyncio\transports.py first seen with mtime 1692878350.0
+File C:\python\Lib\email\headerregistry.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1717848228.3534632
+File C:\python\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1717848229.7500205
+File C:\python\Lib\decimal.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\timezone.py first seen with mtime 1717848229.9204495
+File C:\python\Lib\email\_policybase.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\threads.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\base.py first seen with mtime 1717848229.754643
+File C:\python\Lib\hmac.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\asgiref\__init__.py first seen with mtime 1717848227.3955832
+File C:\python\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1717848229.7669232
+File C:\python\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1717848229.8683832
+File C:\python\Lib\nturl2path.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1717848229.7679963
+File C:\python\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1717848229.707896
+File C:\python\Lib\site-packages\django\http\__init__.py first seen with mtime 1717848229.8634741
+File C:\python\Lib\weakref.py first seen with mtime 1692878352.0
+File C:\python\Lib\uuid.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\template\response.py first seen with mtime 1717848229.8785386
+File C:\python\Lib\getpass.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\text.py first seen with mtime 1717848229.9193313
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\apps.py first seen with mtime 1733924068.2376797
+File C:\python\Lib\locale.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1717848229.7583263
+File C:\python\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1717848227.791133
+File C:\python\Lib\site-packages\django\core\files\base.py first seen with mtime 1717848229.669043
+File C:\python\Lib\site-packages\django\views\defaults.py first seen with mtime 1717848229.9263384
+File C:\python\Lib\reprlib.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\paginator.py first seen with mtime 1717848229.6528296
+File C:\python\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1717848227.788133
+File C:\python\Lib\pkgutil.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\exceptions.py first seen with mtime 1692878350.0
+File C:\python\Lib\subprocess.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1717848229.6652684
+File C:\python\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1717848229.9323049
+File C:\python\Lib\site-packages\django\core\signals.py first seen with mtime 1717848229.6530187
+File C:\python\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1717848229.7619996
+File C:\python\Lib\textwrap.py first seen with mtime 1692878352.0
+File C:\python\Lib\http\server.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\version.py first seen with mtime 1717848229.921519
+File C:\python\Lib\quopri.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1717848229.9283044
+File C:\python\Lib\email\header.py first seen with mtime 1692878350.0
+File C:\python\Lib\urllib\response.py first seen with mtime 1692878352.0
+File C:\python\Lib\wsgiref\simple_server.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\auth\urls.py first seen with mtime 1717848228.3582435
+File C:\python\Lib\site-packages\django\db\__init__.py first seen with mtime 1717848229.7058957
+File C:\python\Lib\asyncio\taskgroups.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\timeouts.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1717848228.354735
+File C:\python\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1717848228.3509927
+File C:\python\Lib\wsgiref\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1717848228.3539624
+File C:\python\Lib\site-packages\django\utils\hashable.py first seen with mtime 1717848229.9101465
+File C:\python\Lib\site-packages\django\utils\connection.py first seen with mtime 1717848229.9037535
+File C:\python\Lib\site-packages\django\utils\__init__.py first seen with mtime 1717848229.8990078
+File C:\python\DLLs\_ssl.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\conf\urls\static.py first seen with mtime 1717848227.787133
+File C:\python\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1717848229.3798652
+File C:\python\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1717848229.707896
+File C:\python\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1717848229.143794
+File C:\python\Lib\email\quoprimime.py first seen with mtime 1692878350.0
+File C:\python\Lib\email\mime\nonmultipart.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1717848229.7088957
+File C:\python\Lib\asyncio\locks.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\coroutines.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\apps.py first seen with mtime 1731513468.126687
+File C:\python\Lib\numbers.py first seen with mtime 1692878352.0
+File C:\python\Lib\_compression.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\trsock.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\timesince.py first seen with mtime 1717848229.9199436
+File C:\python\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1717848229.3822398
+File C:\python\Lib\email\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\http.py first seen with mtime 1717848229.9114318
+File C:\python\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1717848229.6637084
+File C:\python\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1717848228.355193
+File C:\python\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1717848228.5206118
+File C:\python\Lib\http\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\pprint.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\base_tasks.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\utils\safestring.py first seen with mtime 1717848229.9176786
+File C:\python\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1717848229.5150316
+File C:\python\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1717848229.6419642
+File C:\python\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1717848229.7556436
+File C:\python\Lib\site-packages\django\http\request.py first seen with mtime 1717848229.8652818
+File C:\python\Lib\argparse.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\windows_events.py first seen with mtime 1692878350.0
+File C:\python\DLLs\_asyncio.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\apps\__init__.py first seen with mtime 1717848227.5461605
+File C:\python\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1717848229.6667442
+File C:\python\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1717848229.6778667
+File C:\python\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1717848229.6782804
+File C:\python\Lib\asyncio\protocols.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1717848227.5485086
+File C:\python\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1717848226.9252708
+File C:\python\Lib\email\base64mime.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\manager.py first seen with mtime 1717848229.7594664
+File C:\python\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1717848229.6760182
+File C:\python\Lib\difflib.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\signing.py first seen with mtime 1717848229.6535187
+File C:\python\Lib\gzip.py first seen with mtime 1692878350.0
+File C:\python\Lib\asyncio\windows_utils.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1717848229.8843346
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py first seen with mtime 1734780995.7022488
+File C:\python\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1717848229.6467035
+File C:\python\Lib\json\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\bz2.py first seen with mtime 1692878350.0
+File C:\python\Lib\pathlib.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\colorama\winterm.py first seen with mtime 1730012279.2515068
+File C:\python\Lib\re\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\asyncio\runners.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1717848227.5530496
+File C:\python\Lib\asyncio\sslproto.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1717848229.7108958
+File C:\python\Lib\site-packages\django\templatetags\static.py first seen with mtime 1717848229.8889496
+File C:\python\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1717848229.6672437
+File C:\python\Lib\site-packages\django\template\backends\base.py first seen with mtime 1717848229.881431
+File C:\python\Lib\asyncio\streams.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1717848229.7588265
+File C:\python\Lib\encodings\utf_8.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\files\storage\memory.py first seen with mtime 1717848229.6750183
+File C:\python\Lib\platform.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\utils\inspect.py first seen with mtime 1717848229.911932
+File C:\python\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1717848229.9016948
+File C:\python\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1717848229.8894746
+File C:\python\Lib\site-packages\win32\lib\pywin32_bootstrap.py first seen with mtime 1730012252.732679
+File C:\python\Lib\site-packages\django\core\files\locks.py first seen with mtime 1717848229.6700428
+File C:\python\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1717848229.9300942
+File C:\python\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1717848229.3843243
+File C:\python\Lib\site-packages\django\views\generic\list.py first seen with mtime 1717848229.9352212
+File C:\python\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1717848229.6773603
+File C:\python\Lib\email\message.py first seen with mtime 1692878350.0
+File C:\python\DLLs\_hashlib.pyd first seen with mtime 1692878400.0
+File C:\python\Lib\site-packages\django\views\debug.py first seen with mtime 1717848229.9257934
+File C:\python\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1717848229.655313
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\__init__.py first seen with mtime 1734707162.7874897
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1717848228.1993244
+File C:\python\Lib\email\mime\text.py first seen with mtime 1692878350.0
+File C:\python\Lib\tokenize.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1717848229.764
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1717848228.1975484
+File C:\python\Lib\opcode.py first seen with mtime 1692878352.0
+File C:\python\Lib\struct.py first seen with mtime 1692878352.0
+File C:\python\Lib\signal.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\forms\forms.py first seen with mtime 1717848229.7820482
+File C:\python\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1717848229.7088957
+File C:\python\Lib\site-packages\django\utils\html.py first seen with mtime 1717848229.9106464
+File C:\python\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1717848229.8785386
+File C:\python\Lib\site-packages\django\views\static.py first seen with mtime 1717848229.9273725
+File C:\python\DLLs\select.pyd first seen with mtime 1692878398.0
+File C:\python\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1717848228.5210555
+File C:\python\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1717848227.788133
+File C:\python\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1717848229.6951659
+File C:\python\Lib\shutil.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1717848229.7529259
+File C:\python\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1717848226.9336658
+File C:\python\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1717848229.7098956
+File C:\python\Lib\site-packages\colorama\__init__.py first seen with mtime 1730012279.2485027
+File C:\python\Lib\site-packages\django\utils\tree.py first seen with mtime 1717848229.920628
+File C:\python\Lib\ctypes\_endian.py first seen with mtime 1692878350.0
+File C:\python\Lib\multiprocessing\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\db\transaction.py first seen with mtime 1717848229.7068958
+File C:\python\Lib\re\_casefix.py first seen with mtime 1692878352.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\views.py first seen with mtime 1734780403.1424222
+File C:\python\Lib\wsgiref\handlers.py first seen with mtime 1692878352.0
+File C:\python\Lib\secrets.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\core\mail\message.py first seen with mtime 1717848229.6793885
+File C:\python\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1717848229.711896
+File C:\python\Lib\email\mime\__init__.py first seen with mtime 1692878350.0
+File C:\python\Lib\fnmatch.py first seen with mtime 1692878350.0
+File C:\python\Lib\wsgiref\util.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1717848227.793133
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1717848228.1983256
+File C:\python\Lib\sqlite3\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\http\client.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1717848226.9323883
+File C:\python\Lib\functools.py first seen with mtime 1692878350.0
+File C:\python\Lib\base64.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1717848229.6674418
+File C:\python\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1717848229.7773213
+File C:\python\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1717848228.1968696
+File C:\python\Lib\sqlite3\dbapi2.py first seen with mtime 1692878352.0
+File C:\python\Lib\copy.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1717848229.7383015
+File C:\python\Lib\_weakrefset.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1717848229.5193
+File C:\python\Lib\site-packages\django\utils\_os.py first seen with mtime 1717848229.9001539
+File C:\python\Lib\site-packages\django\utils\decorators.py first seen with mtime 1717848229.907139
+File C:\python\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1717848229.701892
+File C:\python\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1717848229.7758179
+File C:\python\Lib\html\__init__.py first seen with mtime 1692878350.0
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users first seen with mtime 1734713432.7216237
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users\login.html first seen with mtime 1734780594.1015635
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users\logout.html first seen with mtime 1734708960.751938
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\templates\users\register.html first seen with mtime 1734713307.454411
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news first seen with mtime 1734344838.0437827
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news\add_news.html first seen with mtime 1734607186.3917792
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news\news.html first seen with mtime 1734345009.5188224
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\templates\news\news_view.html first seen with mtime 1734343409.5701864
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main first seen with mtime 1733924882.6274042
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\about.html first seen with mtime 1731831129.9777913
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\contacts.html first seen with mtime 1733827271.6114347
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\index.html first seen with mtime 1734777355.0887883
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\templates\main\main_content.html first seen with mtime 1733922961.7418466
+File C:\python\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1717848229.1443746
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\0001_initial.py first seen with mtime 1733926589.1057265
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1717848228.515168
+File C:\python\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1717848228.6878293
+File C:\python\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1717848229.7450197
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1717848228.5123372
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1717848228.5177245
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1717848228.516679
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1717848228.078944
+File C:\python\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1717848229.7748182
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1717848228.5111477
+File C:\python\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1717848229.8673778
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\wsgi.py first seen with mtime 1731513403.520744
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1717848228.0788403
+File C:\python\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1717848229.5119338
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1717848228.0777452
+File C:\python\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1717848228.688832
+File C:\python\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1717848229.7435124
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\users\migrations\__init__.py first seen with mtime 1734707162.7874897
+File C:\python\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1717848229.385506
+File C:\python\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1717848228.0777452
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\main\migrations\__init__.py first seen with mtime 1731513467.5877593
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1717848228.5105398
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1717848228.5092626
+File C:\python\Lib\site-packages\django\middleware\common.py first seen with mtime 1717848229.8673778
+File C:\python\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1717848229.7440124
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1717848228.5116088
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\0002_alter_articles_options.py first seen with mtime 1734150854.5799434
+File C:\python\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1717848228.6878293
+File C:\python\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1717848229.7470193
+File C:\python\Lib\encodings\idna.py first seen with mtime 1692878350.0
+File C:\python\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1717848229.5120327
+File C:\python\Lib\stringprep.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1717848228.5121086
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1717848228.5131323
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\0003_articles_autor_alter_articles_anons_and_more.py first seen with mtime 1734259959.059199
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\news\migrations\__init__.py first seen with mtime 1733924067.1435037
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1717848228.5172243
+File C:\python\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1717848229.3812401
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1717848228.5161057
+File C:\python\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1717848228.5146344
+Exception while resolving variable 'title' in template 'users/register.html'.
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "C:\python\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'title'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 881, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'title'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'title'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [title] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x0000023EBB425B20>>, 'request': <WSGIRequest: GET '/users/register'>, 'user': <SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x0000023EBB4277E0>>, 'perms': PermWrapper(<SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x0000023EBB4277E0>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/users/register'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <UserCreationForm bound=False, valid=Unknown, fields=(username;password1;password2)>}]
+"GET /users/register HTTP/1.1" 200 3961
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\urls\resolvers.py", line 725, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'main.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\main\\urls.py'> (None:None) ''>, <URLPattern '' [name='home']>], [<URLResolver <module 'main.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\main\\urls.py'> (None:None) ''>, <URLPattern 'about' [name='about']>], [<URLResolver <module 'main.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\main\\urls.py'> (None:None) ''>, <URLPattern 'contacts' [name='contacts']>], [<URLResolver <module 'news.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\news\\urls.py'> (None:None) 'news/'>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'login/' [name='login']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'logout/' [name='logout']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_change/' [name='password_change']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_change/done/' [name='password_change_done']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_reset/' [name='password_reset']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_reset/done/' [name='password_reset_done']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'reset/<uidb64>/<token>/' [name='password_reset_confirm']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'reset/done/' [name='password_reset_complete']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLPattern 'register' [name='register']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLPattern 'logout' [name='logout']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLPattern 'login' [name='login']>], [<URLPattern '^static/(?P<path>.*)$'>]], 'path': 'users/static/styles/main.css'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\urls\resolvers.py", line 725, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'main.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\main\\urls.py'> (None:None) ''>, <URLPattern '' [name='home']>], [<URLResolver <module 'main.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\main\\urls.py'> (None:None) ''>, <URLPattern 'about' [name='about']>], [<URLResolver <module 'main.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\main\\urls.py'> (None:None) ''>, <URLPattern 'contacts' [name='contacts']>], [<URLResolver <module 'news.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\news\\urls.py'> (None:None) 'news/'>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'login/' [name='login']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'logout/' [name='logout']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_change/' [name='password_change']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_change/done/' [name='password_change_done']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_reset/' [name='password_reset']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'password_reset/done/' [name='password_reset_done']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'reset/<uidb64>/<token>/' [name='password_reset_confirm']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLResolver <module 'django.contrib.auth.urls' from 'C:\\python\\Lib\\site-packages\\django\\contrib\\auth\\urls.py'> (None:None) ''>, <URLPattern 'reset/done/' [name='password_reset_complete']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLPattern 'register' [name='register']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLPattern 'logout' [name='logout']>], [<URLResolver <module 'users.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\users\\urls.py'> (users:users) 'users/'>, <URLPattern 'login' [name='login']>], [<URLPattern '^static/(?P<path>.*)$'>]], 'path': 'users/static/styles/main.css'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'news.urls' from 'C:\\Users\\Lew\\Desktop\\Шаблоны для Django\\Lion_web\\news\\urls.py'> (None:None) 'news/'>
+Not Found: /users/static/styles/main.css
+"GET /users/static/styles/main.css HTTP/1.1" 404 5344
+File C:\python\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1717848228.3527026
+File C:\python\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1717848229.147926
+File C:\python\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1717848229.6447327
+File C:\python\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1717848229.1485047
+File C:\python\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1717848229.38324
+File C:\python\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1717848229.1473684
+File C:\python\Lib\site-packages\django\template\context_processors.py first seen with mtime 1717848229.8738275
+File C:\python\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1717848229.143794
+Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "C:\python\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\python\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+"GET /users/login/ HTTP/1.1" 500 79890
+File C:\python\Lib\importlib\resources\_itertools.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\readers.py first seen with mtime 1692878352.0
+File C:\python\Lib\zipfile.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\__init__.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\_adapters.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\_legacy.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\conf\locale\ru\formats.py first seen with mtime 1717848227.7299433
+File C:\python\Lib\importlib\resources\_common.py first seen with mtime 1692878352.0
+File C:\python\Lib\importlib\resources\readers.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1717848226.5733142
+File C:\python\Lib\importlib\resources\abc.py first seen with mtime 1692878352.0
+File C:\python\Lib\site-packages\django\conf\locale\ru\__init__.py first seen with mtime 1717848227.728943
+File C:\python\Lib\site-packages\tzdata\__init__.py first seen with mtime 1717848226.5469155
+File C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py previous mtime: 1734780995.7022488, current mtime: 1734781072.6923537
+C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py notified as changed. Signal results: [(<function template_changed at 0x0000023EBA04D8A0>, None), (<function translation_file_changed at 0x0000023EBB1CF380>, None)].
+C:\Users\Lew\Desktop\Шаблоны для Django\Lion_web\Lion_web\settings.py changed, reloading.

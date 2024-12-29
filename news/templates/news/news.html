@@ -1,0 +1,27 @@
+{% extends "main/index.html" %}
+{% load static %}
+
+{% block content %}
+    <div class="content__block-news">
+        <ul class="news__info">
+            {% if news %}
+                {% for el in news %}
+                <a href="{{ el.id }}">  
+                    <li class="block_news">
+                            
+                        <h2>{{el.title}}</h2>
+                        <p>{{el.anons}}</p>
+                        <span>Опубликовал: {{el.autor}}</span>
+                    </li>
+                </a>  
+                {% endfor %}
+            {% else %}
+                <h3 class="content__title">Записи</h3>
+                <p class="content__text">Здесь показаны все свежие записи сайта</p>
+            {% endif %}
+            {# Комментарий #}
+        </ul>
+        <a href="{% url 'add_news' %}" class="news__add">Вы также можете добавить свою запись/новость</a>
+    </div>
+{% endblock %}
+

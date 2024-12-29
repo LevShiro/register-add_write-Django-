@@ -1,0 +1,10 @@
+{% extends "main/index.html" %}
+{% block content %}
+    <div class="content-default">
+        <h3 class="content__title">Контакты</h3>
+        <p class="content__text">Здесь вы можете найти контакты наших людей</p>
+        {% for key,value in contacts.items %}
+            <p>{{ key }} - {{ value }}</p>
+        {% endfor %}
+    </div>
+{% endblock %}

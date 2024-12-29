@@ -1,0 +1,18 @@
+{% extends 'main/index.html' %}
+
+{% block content %}
+    <div class="content-default">
+        {% if user.is_authenticated %}
+            <form method="post">
+                {% csrf_token %}
+                {{ form.title }}
+                {{ form.anons }}
+                {{ form.full_text }}
+                <span class="error">{{ error }}</span>
+                <button class="button-add__news" type="submit">Добавить запись</button>
+            </form>
+        {% else %}
+            <p>Пожалуйста, войдите в свой аккаунт чтобы создать новую запись</p>
+        {% endif %}
+    </div>
+{% endblock %}

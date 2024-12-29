@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/styles/main.css">
+    
+    <link rel="stylesheet" href="{% static 'main/styles/normalize.min.css' %}">
+    <link rel="stylesheet" href="{% static 'main/styles/aside.css' %}">
+    <link rel="stylesheet" href="{% static 'main/styles/content.css' %}">
+    <link rel="stylesheet" href="{% static 'main/styles/main.css' %}">
+    <link rel="stylesheet" href="{% static 'main/styles/fonts.css'%}">
+    <link rel="stylesheet" href="{% static 'news/news.css' %}">
+    <link rel="stylesheet" href="{% static 'news/news_add.css' %}">
+    <title>{{ title }}</title>
+    
+</head>
+<body>
+    <main class="main">
+        <div class="main__container _container">
+            <aside class="aside">
+                <img src="{% static 'main/img/logo.png' %}" alt="" class="aside__logo">
+                <h1 class="big__title">SHIRO</h1>
+                <h2 class="aside__title">Навигация</h2>
+                <nav class="aside__navigation">
+                    <ul class="nav__list">
+                        <li class="nav__item"><a href="{% url 'home' %}">Главная</a></li>
+                        <li class="nav__item"><a href="{% url 'about' %}">Про нас</a></li>
+                        <li class="nav__item"><a href="{% url 'news' %}">Записи</a></li>
+                        <li class="nav__item"><a href="{% url 'contacts' %}">Контакты</a></li>
+                        
+                    </ul>
+                </nav>
+            </aside>
+            <section class="content">
+                <div class="content__container">
+                    <header class="content__header-user">
+                        {% if user.is_authenticated %}
+                            <h3>{{user.username}}</h3>
+                            <a class="header__exit" href="{% url 'users:logout' %}">Выход</a>
+                            <a class="header__new-add" href="{% url 'add_news' %}">Добавить новую запись</a>
+                        {% else %}
+                            <a class="login"href="{% url 'users:login' %}">Вход</a>
+                            <a class="register"href="{% url 'users:register' %}">Регистрация</a>
+                        {% endif %}
+                    </header>
+                    {% block content %}
+                    {% endblock%}
+                </div>
+            </section>
+        </div>
+        
+
+    </main>
+</body>
+</html>
